@@ -1,0 +1,13 @@
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\obj\Debug\netcoreapp3.1\Projet.csprojAssemblyReference.cache
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfoInputs.cache
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\obj\Debug\netcoreapp3.1\Projet.AssemblyInfo.cs
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\obj\Debug\netcoreapp3.1\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\bin\Debug\netcoreapp3.1\Projet.exe
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\bin\Debug\netcoreapp3.1\Projet.deps.json
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.json
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\bin\Debug\netcoreapp3.1\Projet.runtimeconfig.dev.json
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\bin\Debug\netcoreapp3.1\Projet.dll
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\bin\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\obj\Debug\netcoreapp3.1\Projet.dll
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\obj\Debug\netcoreapp3.1\Projet.pdb
+C:\Users\Elie\Documents\ESILV\A3\Informatique Fondamentale\Projet\Projet\obj\Debug\netcoreapp3.1\Projet.genruntimeconfig.cache
